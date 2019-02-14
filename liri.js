@@ -32,7 +32,7 @@ function spotifySearch(value) {
     //If the call returns nothing, call it again with a pre-defined song
     if (data.tracks.total==0){
       console.log("we couldn't find that song, what about this one?")
-      spotifySearch("I+saw+the+Sign+Ace+of+Base")
+      spotifySearch("Ace+of+Base")
     }
     else{
       //Return the top 3 songs that are found by spotify
