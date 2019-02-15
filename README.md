@@ -20,6 +20,6 @@ This project will take the following user inputs in node and display outputs int
 ## Why the project is useful
 Users can easily and quickly access relevant information to their interests. 
 
-
+Also you can watch a video walkthrough here: https://github.com/Bgorson/liri-node-app
 
 Contact me at BGorson32@gmail.com with any questions
